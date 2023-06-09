@@ -1,7 +1,12 @@
 <div style="width: 100%;">
 
-<img src="welcome.svg" style="width: 100%;" alt="Welcome message">
-
+<h2>Hi! 👋</h2>
+<p>
+    I am Yaroslav Korch, a Computer Science student at APPS UCU 😄
+</p>
+<p>
+    I am passionate about Machine Learning and Programming in Python and C++.
+</p>
 </div>
 
 
