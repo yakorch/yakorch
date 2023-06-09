@@ -1,7 +1,7 @@
 <div style="width: 100%;">
     <h2>  Hi! 👋 </h2>
     <p>
-        I am Yaroslav Korch, a Computer Science student at <span style="color: blueviolet;">APPS</span> UCU  😄
+        I am Yaroslav Korch, a Computer Science student at <font color="blueviolet">APPS</font> UCU  😄
     </p>
     <p>
         I am passionate about Machine Learning and Programming in Python and C++.
