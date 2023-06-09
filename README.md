@@ -1,16 +1,14 @@
-### Hi there 👋
+<div style="width: 100%;">
+    <h2>  Hi! 👋 </h2>
+    <p>
+        I am Yaroslav Korch, a Computer Science student at <span style="color: blueviolet;">APPS</span> UCU  😄
+    </p>
+    <p>
+        I am passionate about Machine Learning and Programming in Python and C++.
+    </p>
+</div>
+
 
 <!--
 **yakorch/yakorch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
