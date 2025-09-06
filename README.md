@@ -1,11 +1,8 @@
 <div style="width: 100%;">
 
-<h2>Hi! 👋</h2>
+<h2>Hello! 👋</h2>
 <p>
-    I am Yaroslav Korch, a Computer Science student at APPS UCU 😄
-</p>
-<p>
-    I am passionate about Machine Learning and Programming in Python and C++.
+    I am Yaroslav. I am into statistics, optimized yet readable code, and machine learning.
 </p>
 </div>
 
